@@ -42,8 +42,8 @@ def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/tgxbotz_update"),
-                           InlineKeyboardButton("Support Group", url="https://t.me/tgxbotz_chat")
+                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/dada_linkz"),
+                           InlineKeyboardButton("Developer", url="https://t.me/dada_offil")
                       ],
 
                   ]
@@ -57,8 +57,8 @@ def _start(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/tgxbotz_update"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/tgxbotz_chat")
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/dada_linkz"),
+                    InlineKeyboardButton("Developer", url="https://t.me/dada_offil")
                 ],
             ]
         ),
@@ -74,14 +74,14 @@ def _source_code(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Creator", url="https://t.me/shrvan42")
+                    InlineKeyboardButton("Creator", url="https://t.me/dada_offil")
                 ],
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/tgxbotz_update"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/tgxbotz_chat")
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/dada_linkz"),
+                    InlineKeyboardButton("Developer", url="https://t.me/dada_offil")
                 ],
                 [
-                    InlineKeyboardButton("Creator", url="https://t.me/shrvan42")
+                    InlineKeyboardButton("Creator", url="https://t.me/dada_offil")
                 ]
             ]
         ),
